@@ -1,0 +1,2 @@
+# List one IP per line for targeting. Use # for remarks. 
+#10.11.1.22

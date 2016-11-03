@@ -1,0 +1,1 @@
+Results of scans will be placed here in folders.
